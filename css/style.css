@@ -73,6 +73,9 @@ header a:hover {
 	text-decoration: underline
 }
 
+#press {
+	margin-bottom: 20px;
+}
 #press img {
 	border: 4px solid #ccc;
 	padding: 1px;
