@@ -45,6 +45,6 @@ img {
 }
 
 footer {
-	float: right;
+	text-align: right;
 }
 /* Write all remaining styles here */
