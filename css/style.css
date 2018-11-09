@@ -58,7 +58,7 @@ header a:hover {
 	color: #666;
 }
 
-img #featured {
+#featured img {
 	border: 10px solid black;
 }
 /* Write all remaining styles here */
