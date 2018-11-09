@@ -28,4 +28,8 @@ h1 {
 	font-family: 'Baskerville', serif;
 	color: #9caca6;
 }
+
+img {
+	border: 2px;
+}
 /* Write all remaining styles here */
