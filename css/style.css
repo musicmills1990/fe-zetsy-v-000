@@ -70,4 +70,8 @@ header a:hover {
 #press img {
 	border: 4px solid #ccc;
 }
+
+#press img:hover {
+	border: 8px solid #888;
+}
 /* Write all remaining styles here */
