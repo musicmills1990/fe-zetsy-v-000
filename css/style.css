@@ -20,10 +20,8 @@ body {
 	padding: 0 45px 20px;
 }
 
-* {
-	font-family: "Baskerville";
-}
 h1 {
-	padding-bottom:
+	padding-bottom: 10px;
+	font-family: "Baskerville":
 }
 /* Write all remaining styles here */
