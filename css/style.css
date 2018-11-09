@@ -61,4 +61,8 @@ header a:hover {
 #featured img {
 	border: 5px solid rgb(152, 173, 166);
 }
+
+#featured a {
+	color: #1783bb;
+}
 /* Write all remaining styles here */
