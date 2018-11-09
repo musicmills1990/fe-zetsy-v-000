@@ -48,7 +48,7 @@ footer {
 	text-align: right;
 }
 
-header a {
+header a:hover {
 	color: #666;
 }
 /* Write all remaining styles here */
