@@ -52,6 +52,7 @@ footer {
 
 header a {
 	color: #9caca6
+	text-decoration: none;
 }
 header a:hover {
 	color: #666;
