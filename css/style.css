@@ -47,4 +47,8 @@ img {
 footer {
 	text-align: right;
 }
+
+header a {
+	color: #666;
+}
 /* Write all remaining styles here */
