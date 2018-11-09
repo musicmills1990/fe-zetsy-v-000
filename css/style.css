@@ -42,6 +42,9 @@ p {
 
 img {
 	border: 2px #444;
+}
 
+footer {
+	float: right;
 }
 /* Write all remaining styles here */
