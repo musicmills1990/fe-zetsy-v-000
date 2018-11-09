@@ -42,6 +42,9 @@ p {
 img {
 	border: 2px #444;
 }
+.small {
+	font-size: .75em;
+}
 
 footer {
 	text-align: right;
