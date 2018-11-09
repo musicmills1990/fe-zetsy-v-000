@@ -53,6 +53,7 @@ footer {
 header a {
 	color: #9caca6;
 	text-decoration: none;
+
 }
 header a:hover {
 	color: #666;
@@ -60,6 +61,7 @@ header a:hover {
 
 #featured img {
 	border: 5px solid rgb(152, 173, 166);
+	display: block;
 }
 
 #featured a {
