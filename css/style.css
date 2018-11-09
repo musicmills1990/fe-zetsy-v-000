@@ -26,7 +26,6 @@ h1 {
 	font-size: 5em;
 	font-weight: normal;
 	font-family: 'Baskerville', serif;
-	color: #9caca6;
 	border-bottom: 1px solid #ccc;
 }
 
@@ -48,6 +47,9 @@ footer {
 	text-align: right;
 }
 
+header a {
+	color: #
+}
 header a:hover {
 	color: #666;
 }
