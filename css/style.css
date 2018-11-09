@@ -33,6 +33,10 @@ h2 {
 	font-size: 2em;
 	color: rgb(118,124,122);
 }
+
+p {
+	color: #555;
+}
 img {
 	border: 2px #444;
 
