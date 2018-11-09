@@ -84,7 +84,7 @@ header a:hover {
 }
 
 #press img:hover {
-	border: 7px solid #888;
+	border: 10px solid #888;
 	z-index: 1;
 }
 /* Write all remaining styles here */
