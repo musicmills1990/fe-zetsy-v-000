@@ -61,7 +61,7 @@ header a:hover {
 
 #featured img {
 	border: 5px solid rgb(152, 173, 166);
-	display: block;
+	display: in-line;
 }
 
 #featured a {
