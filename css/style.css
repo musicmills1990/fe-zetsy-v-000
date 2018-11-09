@@ -61,12 +61,16 @@ header a:hover {
 
 #featured img {
 	border: 5px solid rgb(152, 173, 166);
-	display: inline-block;
+	display:;
 }
 
 #featured a {
 	color: #1783bb;
 	text-decoration: none;
+}
+#featured a:hover {
+	font-size: 1.1em;
+	text-decoration: underline
 }
 
 #press img {
