@@ -64,5 +64,6 @@ header a:hover {
 
 #featured a {
 	color: #1783bb;
+	text-decoration: none;
 }
 /* Write all remaining styles here */
