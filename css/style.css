@@ -59,6 +59,6 @@ header a:hover {
 }
 
 #featured img {
-	border: 10px solid black;
+	border: 10px solid rgb(170, 160, 180);
 }
 /* Write all remaining styles here */
